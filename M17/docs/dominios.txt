@@ -1,0 +1,11 @@
+Dominios relacionados a la superfamilia de inmunoglobulinas (2.60.40.10):
+- 3bo8A01
+- 3bp6B02
+- 3bprC01
+- 3brbA01
+- 3bt1U01
+- 3bt2U03
+- 3be2A01
+- 3bewA02
+- 3bikC00
+- 3binA01
